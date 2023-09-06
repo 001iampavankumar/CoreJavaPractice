@@ -7,7 +7,7 @@
  */
 
 
-package Multithreading.UsingRunnableInterface;
+package Multithreading.WaysToAchive.RunnableInterface;
 class Test1 extends Thread{
 
     public void run(){

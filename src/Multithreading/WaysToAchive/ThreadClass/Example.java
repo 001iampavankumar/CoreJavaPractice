@@ -9,7 +9,7 @@
 */
 
 
-package Multithreading.UsingThreadClass;
+package Multithreading.WaysToAchive.ThreadClass;
 class Test1 extends Thread{
 
     public void run(){

@@ -1,9 +1,9 @@
 //there are 5 types of inheritance
 
 /*
-* 1.Single - plane-mahindra
-* 2.Multilevel - plane-mahindra - Thar
-* 3.Hierarchial - plane-Mahindra - Thar,Suv
+* 1.Single - car-mahindra
+* 2.Multilevel - car-mahindra - Thar
+* 3.Hierarchial - car-Mahindra - Thar,Suv
 * 4.cyclic - not possible
 * 5.multile - not possible diamond shape problem
 * */
